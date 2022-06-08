@@ -14,3 +14,4 @@ friends.pop()
 rent.shift()
 //paidRent will be added to the end of the friendsPaid array.
 friendsPaid.push(paidRent)
+//The index position is the number that corresponds with the element in an Array that is being used. The first element will always be 0.
